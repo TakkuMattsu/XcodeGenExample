@@ -21,6 +21,8 @@ targets:
         - xcodegenExampleTests
         - xcodegenExampleUITests
       gatherCoverageData: true
+    settings:
+      MARKETING_VERSION: 1.2.0 # 追加する
   xcodegenExampleTests:
     type: bundle.unit-test
     platform: iOS
