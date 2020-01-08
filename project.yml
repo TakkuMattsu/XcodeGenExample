@@ -3,7 +3,7 @@ options: # Some general settings for the projectproject.yml
   createIntermediateGroups: true # If the folders are nested, also nest the groups in Xcode
   indentWidth: 4 # indent by 4 spaces
   tabWidth: 4 # a tab is 4 spaces
-  bundleIdPrefix: "de.adorsys.ios"
+  bundleIdPrefix: "com.test.version"
 configs:
   Debug: debug
   integ: debug
